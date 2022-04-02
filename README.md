@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on courseworks of MSC. 
 - 🌱 I’m currently learning golang. But barely find any interesting project to do. 
 - 📫 Reach me at : 517262600@qq.com 

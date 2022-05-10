@@ -1,7 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=innovationb1ue)
 ### Hi there 👋
-- 🔭 I’m currently working on courseworks of MSC. 
-- 🌱 I’m currently learning golang. But barely find any interesting project to do. 
+- 🔭 I’m currently working on final thesis of my Data Science MSc. 
+- 🌱 I’m currently learning golang.
 - 📫 Reach me at : 517262600@qq.com  or sa21115@bristol.ac.uk. 
-- ⚡ Wanna do: Feel free to contact me if you need a collaborator for your awesome awesome Python, Golang project. 
-- Also I really do think `c++` is so cool. But this language obviously will swallow tons of my time and I need a good project(reason) to light the fire. 
+- Feel free to contact me if you need a collaborator for your awesome awesome Python, Golang project. 

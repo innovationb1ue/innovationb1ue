@@ -1,7 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=innovationb1ue)
 ### GL friends! 👋
 
-I am working on my personal project [RedisGO]([RedisGO](https://github.com/innovationb1ue/RedisGO)), 
+I am working on my personal project [RedisGO](https://github.com/innovationb1ue/RedisGO), 
 which is a Redis server fully implemented in Go and reach approximately 80%+ performance of the C-Redis impl. 
 
 

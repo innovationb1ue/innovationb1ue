@@ -1,8 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=innovationb1ue)
-### GL friends! 👋
 
-Grinding thro things is funny. 
-
-Busy working and living. 
+Working on personal quant trading project. 
 
 - 📫 Reach me at : 517262600@qq.com. 
